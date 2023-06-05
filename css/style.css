@@ -1,0 +1,259 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.superior
+{
+    margin: auto;
+    width: 100% ;
+    color: white;
+    background-color:#313131;
+}
+
+
+.logo
+{
+    margin-left: 100px;
+    font-size: 24px;
+}
+
+.logo:hover
+{
+    color: black;
+}
+
+.supder
+{
+    margin-right: 100px;
+}
+
+.supder a
+{
+    color: #8A8989;
+    font-size: 18px;
+}
+
+
+#primero
+{
+    color: white;
+    font-size: 18px;
+}
+
+#primero:hover
+{
+    color: black;
+}
+
+#comprar
+{
+    color: #009612;
+    font-size: 18px;
+}
+
+
+#comprar:hover
+{
+    color: black;
+}
+
+
+.carrouselfoto
+{
+    width: 100%;
+    height: 1000px;
+    margin-top: -150px;
+    filter: brightness(50%);
+}    
+
+
+.textocarrousel
+{
+    width: 26.5%;
+    text-align: right;
+    margin-bottom: 15%;
+    margin-left: 50%;
+}
+
+
+.oradores
+{
+    text-align: center;
+}
+
+
+.textochico
+{
+    font-size: 14px;
+}
+
+
+.textomediano
+{
+    font-size: 28px;
+}
+
+
+.cardscentral
+{
+    width: 60%;
+    margin: auto;
+}
+
+
+.javascript
+{
+    background-color: #FFC94D;
+    color: black;
+    width: 20%;
+    height: 20px;
+    font-size: 12px;
+    border-radius: 5px;
+    text-align: center; 
+}
+
+
+.react
+{
+    background-color: #119393;
+    color: white;
+    width: 10%; 
+    height: 20px;
+    font-size: 12px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 4px;
+}
+
+
+.logos
+{
+    display: flex;
+}
+
+
+.negocios
+{
+    background-color: #5F5F5F;
+    color: white;
+    width: 17%;
+    height: 20px;
+    font-size: 12px;
+    border-radius: 5px;
+    text-align: center; 
+}
+
+
+.startups
+{
+    background-color: #D60000;
+    color: white;
+    width: 16%;
+    height: 20px;
+    font-size: 12px;
+    border-radius: 5px;
+    text-align: center; 
+    margin-left: 4px;
+}
+
+
+.textoplaya
+{
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+#playa
+{
+    width: 50%;
+    border-right: 1px solid white;
+}
+
+
+#derplaya
+{
+    background-color: #313131;
+    color: white;
+    width: 50%;
+    border-left: 1px solid white;
+}
+
+
+.formulario
+{
+    width: 50%;
+    margin: auto;
+}
+
+
+.cajonnombre
+{
+    width: 48%;
+}
+
+
+.cajaapellido
+{
+    width: 48%;
+    margin-left: auto;
+}
+
+
+.comentarios
+{
+    width: 50%;
+    margin: auto;
+}
+
+
+.coment
+{
+    font-size: 25px;
+}
+
+
+.botonfinal
+{
+    width: 50%;
+    margin-left: 25%;
+    background-color: #63C758;
+}
+
+
+.textomaschico
+{
+    font-size: 12px;
+}
+
+
+.footer
+{
+    background-color: #154265;
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+
+.margenesfinal
+{
+    display: flex;
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: space-evenly;
+    color: white;
+    align-items: center;
+    font-size: 18px;
+}
+
+
+.textofooter:hover
+{
+    color: black;
+}
